@@ -5,5 +5,8 @@
 #DERECHO
 [![41e9bede-cc25-4d20-be9a-7bb0bf6c7863.jpg](https://i.postimg.cc/d39hmPJw/41e9bede-cc25-4d20-be9a-7bb0bf6c7863.jpg)](https://postimg.cc/dZLQwf7x)
 #IZQUIERO
-[![3e73eadb-04f7-4168-ac4d-311faa4102cc.jpg](https://i.postimg.cc/630nWGFx/3e73eadb-04f7-4168-ac4d-311faa4102cc.jpg)](https://postimg.cc/XGrpxXVs)
+[![b88024b4-aefa-4b45-9298-d09d73db16b9.jpg](https://i.postimg.cc/90061yh2/b88024b4-aefa-4b45-9298-d09d73db16b9.jpg)](https://postimg.cc/RJrpZ6hp)
 #ARRIBA
+[![15a66a9b-d860-44fb-8ae8-0fdaa0c9716e.jpg](https://i.postimg.cc/wMnGVP2c/15a66a9b-d860-44fb-8ae8-0fdaa0c9716e.jpg)](https://postimg.cc/CnH7McWz)
+#ABAJO
+[![8a1835d8-bf5b-4c3d-807f-0aee40486f3b.jpg](https://i.postimg.cc/Tw47dSzY/8a1835d8-bf5b-4c3d-807f-0aee40486f3b.jpg)](https://postimg.cc/LYjBvy4r)
