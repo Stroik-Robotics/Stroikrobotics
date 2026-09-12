@@ -31,3 +31,4 @@ graph TD
     MotorD -.->|Conectado a Puerto A| EV3
     MotorI -.->|Conectado a Puerto D| EV3
     Camara -.->|Conectado a Puerto 1| EV3
+
