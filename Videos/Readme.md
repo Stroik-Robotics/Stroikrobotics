@@ -6,6 +6,7 @@ https://youtu.be/35KDlmPwaac?feature=shared
 https://youtu.be/rqsha8DPSOI?feature=shared
 
 # VF DEFINITIVA CERRADA 
+https://youtu.be/EzF-PTLCMGo?feature=shared
 
 
 
