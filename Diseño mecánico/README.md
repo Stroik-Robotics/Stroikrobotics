@@ -1,4 +1,4 @@
-# 🤖 Diseño Mecánico y Modelado
+#  Diseño Mecánico y Modelado
 
 Esta sección detalla la arquitectura física del robot basado en LEGO. El diseño se enfoca en la modularidad, la agilidad y la precisión de los sensores.
 
@@ -19,11 +19,11 @@ El robot emplea una configuración de tracción trasera (**2WD**) directa, optim
 *   **Transmisión:** La conexión entre los motores y las ruedas se realiza mediante un tren de engranajes simple de relación 1:1 (engranajes rectos de 24 dientes), lo que maximiza la velocidad de rotación y minimiza la holgura (backlash).
 *   **Ruedas y Neumáticos:** Se utilizan ruedas de diámetro reducido (aprox. 56mm) con neumáticos lisos de color cian. Estos neumáticos ofrecen un coeficiente de fricción óptimo en superficies de pista de lona lisas, crucial para un seguimiento de línea preciso.
 
-| Componente | Detalle | Imagen de Referencia |
+| Componente | Detalle |  |
 | :--- | :--- | :--- |
-| Motor Derecho | Servo mediano EV3, Puerto B | `image_4.png` |
-| Motor Izquierdo| Servo mediano EV3, Puerto C | `image_4.png` |
-| Transmisión | Engranajes rectos 24t (relación 1:1) | `image_5.png` |
+| Motor Derecho | Servo mediano EV3, Puerto B 
+| Motor Izquierdo| Servo mediano EV3, Puerto C 
+| Transmisión | Engranajes rectos 24t (relación 1:1) 
 
 ## Sistema de Dirección
 
