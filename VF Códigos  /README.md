@@ -671,6 +671,6 @@ while True:
     motor_direccion.track_target(timon * RELACION_ENGRANAJE * SIGNO_DIRECCION)
     motor_traccion.run(VELOCIDAD_CRUCERO)
 
-    ##Código de la sesión cerrada (cada día tratando de perfeccionar este código)
+ # Código de la sesión cerrada (cada día tratando de perfeccionar este código)
 
 
