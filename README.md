@@ -43,12 +43,18 @@ Para abordar las curvas cerradas del circuito con la máxima eficiencia, hemos i
 
 Para explorar a fondo el proceso de ingeniería, navegue por las siguientes carpetas del repositorio:
 
+## 📂 Estructura del Repositorio
+
+Para explorar a fondo el proceso de ingeniería, navegue por las siguientes carpetas del repositorio haciendo clic en los enlaces:
+
 | Carpeta / Directorio | Descripción del Contenido |
 | :--- | :--- |
-| `/diseno_mecanico` | Planos, renders (Studio 2.0 / LDraw) y diagramas de montaje. |
-| `/codigo_fuente` | Scripts de programación (Python/EV3-G) organizados por módulos (Visión, PID, Control). |
-| `/pruebas_y_datos` | Bitácoras de competición, resultados de *testing* y análisis de rendimiento. |
-| `/media` | Galería de imágenes y videos del robot en acción y durante el proceso de construcción. |
+| **`/diseno_mecanico`** | Planos, renders (Studio 2.0 / LDraw) y diagramas de montaje. |
+| **`/codigo_fuente`** | Scripts de programación (Python/EV3-G) organizados por módulos (Visión, PID, Control). |
+| **`/pruebas_y_datos`** | Bitácoras de competición, resultados de *testing* y análisis de rendimiento. |
+| **`/media`** | Galería de imágenes y videos del robot en acción y durante el proceso de construcción. |
+
+---
 
 ---
 **¡Gracias por visitar el repositorio del Team Stroik Robotics!**
