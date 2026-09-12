@@ -1,6 +1,6 @@
 # 🤖 Diseño Mecánico y Modelado
 
-Esta sección detalla la arquitectura física y las decisiones de ingeniería detrás de este robot seguidor de línea basado en LEGO EV3. El diseño se enfoca en la modularidad, la agilidad y la precisión de los sensores.
+Esta sección detalla la arquitectura física del robot basado en LEGO. El diseño se enfoca en la modularidad, la agilidad y la precisión de los sensores.
 
 ## Descripción General del Chasis
 
