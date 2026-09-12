@@ -1,3 +1,4 @@
+## STROIKROBOTICS 
 Bienvenido al repositorio oficial de nuestro equipo, team Stroik Robotics dónde vamos a poder experimentar un poco sobre nuestro robot autónomo. Más que una simple suma de bloques de Lego Mindstorms y líneas de código, este robot es la materialización de horas de diseño, pruebas y pasión por la ingeniería.
 
 Diseñado específicamente para enfrentar los exigentes retos de navegación y evasión de obstáculos en pistas competitivas como lo es la categoría Future Engineers de la WRO 2026, cada componente de su arquitectura ha sido pensado para garantizar un equilibrio perfecto entre precisión, tracción y conciencia espacial.
