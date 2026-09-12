@@ -232,6 +232,8 @@ motor_direccion.run_target(1000, 0, wait=True)
 ev3.speaker.play_notes(['C4/4', 'E4/4', 'G4/4', 'C5/2'])
 print("CARRERA COMPLETADA -", giros_completados, "giros ejecutados.")
 
+
+
 # CODIGO CERRADA 
 #!/usr/bin/env pybricks-micropython
 from pybricks.hubs import EV3Brick
