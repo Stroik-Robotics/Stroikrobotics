@@ -1,6 +1,6 @@
 ## 🔌 Diagrama del Circuito y Conexiones
 
-El "cerebro" del robot es el bloque inteligente **Lego Mindstorms EV3**, el cual gestiona la lógica de control, la alimentación y la comunicación con los actuadores y sensores. A continuación, se describen las conexiones estándar utilizadas en este montaje.
+El "cerebro" del robot es el bloque inteligente **Lego Mindstorms EV3**, el cual gestiona la lógica de control, la alimentación y la comunicación con los actuadores y sensores.
 
 ### Arquitectura del Sistema
 
@@ -19,16 +19,17 @@ graph TD
     end
 
     subgraph "Sensores (Entrada)"
-        Camara[Pixy2 Cam (Visión)]:::sensor
+        Camara[Pixy2 Cam Vision]:::sensor
     end
 
     %% Conexiones Lógicas
     EV3 -- "Cable NXT/RJ12 (Control PWM)" --> MotorD
     EV3 -- "Cable NXT/RJ12 (Control PWM)" --> MotorI
-    EV3 -- "Cable Adaptador 6-pin a 4-pin (I2C/UART)" --> Camara
+    EV3 -- "Cable Adaptador 6-pin to 4-pin (I2C/UART)" --> Camara
 
-    %% Notas de puertos
+    %% Notas de puertos (Se muestran como enlaces punteados)
     MotorD -.->|Conectado a Puerto A| EV3
     MotorI -.->|Conectado a Puerto D| EV3
     Camara -.->|Conectado a Puerto 1| EV3
+
 
