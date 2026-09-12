@@ -4,7 +4,7 @@ Esta sección detalla la arquitectura física del robot basado en LEGO. El dise�
 
 ## Descripción General del Chasis
 
-El robot está construido sobre un chasis modular de perfil bajo, diseñado específicamente para la estabilidad y la maniobrabilidad en entornos de competición. La estructura principal utiliza componentes del sistema de construcción **LEGO Technic**, aprovechando su rigidez y facilidad de modificación. El diseño se centra en un centro de gravedad bajo y una distribución de peso equilibrada, esencial para mantener la tracción durante aceleraciones y giros bruscos.
+El robot está construido sobre un chasis modular de perfil bajo, diseñado específicamente para la estabilidad y la maniobrabilidad en entornos de competición. La estructura principal utiliza componentes del sistema de construcción **LEGO**, aprovechando su rigidez y facilidad de modificación. El diseño se centra en un centro de gravedad bajo y una distribución de peso equilibrada, esencial para mantener la tracción durante aceleraciones y giros bruscos.
 
 <p align="center">
   <img src="[IMAGEN: URL_VISTA_SUPERIOR.png]" alt="Vista superior del chasis" width="45%">
