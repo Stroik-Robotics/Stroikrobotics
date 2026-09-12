@@ -1,6 +1,6 @@
 ## 2. Arquitectura de Energía y Sensores
 
-Este apartado describe la planificación, justificación y validación de los sistemas de alimentación y percepción del robot seguidor de línea. El diseño se ha optimizado para maximizar el rendimiento de la batería y garantizar una lectura precisa del entorno.
+Este apartado describe la planificación, justificación y validación de los sistemas de alimentación y percepción del robot. El diseño se ha optimizado para maximizar el rendimiento de la batería y garantizar una lectura precisa del entorno.
 
 ### Resumen de la Arquitectura
 
